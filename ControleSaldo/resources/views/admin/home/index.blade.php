@@ -1,6 +1,6 @@
 @extends('adminlte::page')
 
-@section('title', 'AdminLTE')
+@section('title', 'Painel Administrativo')
 
 @section('content_header')
     <h1>Painel Administrativo</h1>
